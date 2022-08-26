@@ -3,7 +3,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-sidebar: toc
+remote_theme: just-the-docs/just-the-docs
 include:
   - CONTRIBUTING.md
   - README.md
