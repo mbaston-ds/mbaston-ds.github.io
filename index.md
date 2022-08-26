@@ -15,4 +15,4 @@ text
 
 ## Linktest
 
-[a relative link](/another-page.htmnl)
+[a relative link](/another-page.md)
