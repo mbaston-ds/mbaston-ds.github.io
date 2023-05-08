@@ -28,7 +28,7 @@
 - ## G.2 - [Verfügbarkeit](verfuegbarkeit/index.md)
 - ## G.3 - [Integrität](integritaet/index.de)
 - ## G.4 - [Belastbarkeit](belastbarkeit/index.de)
-- ## G.5 - [Rechtmäßigkei](rechtmaessigkeit/index.de)
+- ## G.5 - [Rechtmäßigkeit](rechtmaessigkeit/index.de)
 - ## G.6 - [Zweckbindung](zweckbindung/index.de)
 - ## G.7 - [Erforderlichkeit](erforderlichkeit/indx.de)
 - ## G.8 - [Datenminimierung](datenminimierung/index.de)
