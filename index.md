@@ -110,7 +110,7 @@
 
 
 <details>
-<summary><H1>Grundsätze (G)</H1></summary>
+<summary><H1>Anhänge (Z)</H1></summary>
 
 # Z. Anhang
 - Z.1 - [Über](ueber/index.md)
