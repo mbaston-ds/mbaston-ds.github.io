@@ -1,7 +1,6 @@
 
-<details>
-<summary><H1>Datenverarbeitung (DV)</H1></summary>
-	
+# Datenverarbeitung
+
 ## DV.1 - [Verantwortliche](verantwortliche/index.md)
 
 - DV 1.1 - [Gemeinsame Verantwortung](gemeinsame-verantwortung/index.md)
@@ -23,11 +22,6 @@
 - DV.5.2 - [Datenübermittlung](datenuebermittlung/index.md)
 - DV.5.X - [Löschung](loeschung/index.md)
 
-</details>
-
-<details>
-
-<summary><H1>Grundsätze (G)</H1></summary>
 
 # Grundsätze (G)
 - ## G.1 - [Vertraulichkeit](vertraulichkeit/index.md)
@@ -46,11 +40,6 @@
 - ## G.X - [Privacy by design und dafault](privacybydesignanddefault/index.de)
 	- G.X.1. - [Privacy by design](privacybydesign/index.de)
 	- G.X.2 - [Privacy by default](privacybydefault/index.de)
-
-</details>
-
-<details>
-<summary><H1>Organisation (O)</H1></summary>
 
 
 # Organisation (O)
@@ -106,15 +95,6 @@
 	- [DSB](dsb-index.md)
 	- [DSK](dsk/index.md)
 
-</details>
-
-
-<details>
-<summary><H1>Anhänge (Z)</H1></summary>
-
 # Z. Anhang
 - Z.1 - [Über](ueber/index.md)
 - Z.2 - [Änderungen](aenderungen/index.md)
-
-</details>
-
